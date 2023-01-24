@@ -1,19 +1,19 @@
 `Cool Retro Term`のテーマ置き場
 
 ### 1. Purple
-![](images/purple.png)
+![](Images/purple.png)
 -> [json](Themes/Purple.json)
 
 ### 2. Green
-![](images/green.png)
+![](Images/green.png)
 -> [json](Themes/Green.json)
 
 ### 3. Blue
-![](images/blue.png)
+![](Images/blue.png)
 -> [json](Themes/Blue.json)
 
 ### 4. White
-![](images/white.png)
+![](Images/white.png)
 -> [json](Themes/White.json)
 
 
